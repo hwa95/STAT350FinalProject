@@ -3,7 +3,7 @@ Group members: Hao Wu, Xingyu Yi, Mengying Yuan, Shuai Feng
 Professor: Derek Bingham  
 For **full analysis and conclusion** please click here:
 [final report pdf](https://github.com/hwa95/STAT350FinalProject/blob/main/result_paper.pdf).  
-**Data** can be found on [this website](https://www.statisticssolutions.com/assumptions-of-multiple-linear-regression/), or [csv file](https://github.com/hwa95/STAT350FinalProject/blob/main/insurance.csv).  
+**Data** can be found on [this website](https://www.kaggle.com/mirichoi0218/insurance), or [csv file](https://github.com/hwa95/STAT350FinalProject/blob/main/insurance.csv).  
 **R code** can be found [here.](https://github.com/hwa95/STAT350FinalProject/blob/main/code.Rmd)  
 **Knitted html** of chunks and outputs please click here:
 [code and output](https://github.com/hwa95/STAT350FinalProject/blob/main/code.html).  
