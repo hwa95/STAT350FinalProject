@@ -4,10 +4,14 @@ For full analysis and conclusion please click here:
 ## Abstract
 In this article, we will study to determine the factors affecting medical costs in the United States. For the data set under study, 1338 data and 7 variables are collected, which are the response variable expenses and the 6 explanatory variables we want to study. After research for scatter plot matrix and complete linear regression model analysis, we used the AIC and BIC model selection steps and selected two models. Then we build comparative tests on these two selected models. Through the use of ANOVA, the final model was determined and showed the influence of medical expenses on the following factors: 7 explanatory variables, 11 interaction variables, of which 7 influencing factors are more important, namely SEX, CHILDREN, AGE square, the interaction term BMI & smoking, BMI & living in SOUTHEAST, smoking & BMI over 30, smoking, and age square.
 
-## Keywords
-Medical expenses, AGE, SEX, Body Mass Index (BMI), CHILDREN, Smoking or not, Area of residence
+## Methods
+* Variable statistics
+* AIC, BIC
+* Forward, Backward, Stepwise
 
-## Note: For the final model, please refer to the final report pdf.
+## Model
+The seven important variables detected and included in the final model are SEX, CHILDREN, AGE2, the interaction term BMI: SMOKER, BMI: REGION (SOUTHEAST), SMOKER: BMI30, SMOKER: AGE2. 
+Note: For the final model, please refer to the final report pdf.
 
 ## Conclusion
 1. If the policy holder is male, the point estimation of charges will be 504.7322 lower than female, with other variables remaining constant.
