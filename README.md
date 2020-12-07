@@ -1,7 +1,7 @@
 # STAT350FinalProject - Group 13
 Hao Wu, Xingyu Yi, Mengying Yuan, Shuai Feng  
 For full analysis and conclusion please click here:
-[final report pdf](https://github.com/hwa95/STAT350FinalProject/blob/main/result_paper.pdf).
+[final report pdf](https://github.com/hwa95/STAT350FinalProject/blob/main/result_paper.pdf).  
 Rmd chunks and outputs knitted to html please click here:
 [code and output](https://github.com/hwa95/STAT350FinalProject/blob/main/code.html).
 ## Abstract
