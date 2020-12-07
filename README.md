@@ -9,6 +9,7 @@ In this article, we will study to determine the factors affecting medical costs 
 * Variable statistics
 * AIC, BIC
 * Forward, Backward, Stepwise
+* Test for ANOVA table and plots
 
 ## Model
 The seven important variables detected and included in the final model are SEX, CHILDREN, AGE2, the interaction term BMI: SMOKER, BMI: REGION (SOUTHEAST), SMOKER: BMI30, SMOKER: AGE2. 
